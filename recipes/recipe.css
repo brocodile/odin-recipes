@@ -14,4 +14,8 @@ img{
 }
 .ingredients,.steps{
     color: pink;
+    text-align: justify;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 500;
 }
