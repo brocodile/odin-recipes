@@ -3,15 +3,15 @@ body{
     background-color: orangered;
 }
 h1,h2,h3,h4,h5,h6{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Courier New', monospace,"Times New Roman";
 }
 h3{
     color: yellow;
 }
-li{
-    color: white;
-}
 img{
     height: 350px;
     width: auto;
+}
+.ingredients,.steps{
+    color: pink;
 }
