@@ -2,6 +2,12 @@ body{
     font-family: 'Courier New', Courier, monospace;
     background-color: orangered;
 }
-.heading{
-    font-weight: 900;
+h1,h2,h3,h4,h5,h6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: yellow;
+}
+li{
+    color: white;
 }
